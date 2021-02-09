@@ -1,0 +1,3 @@
+Is -S Sort files or entries by size
+Is -lo List detailed directory contents, including hidden files
+mkdir -p <dir>/<dir> Create nested folders
